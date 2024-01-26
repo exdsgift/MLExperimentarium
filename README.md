@@ -1,13 +1,14 @@
 # MLExperimentarium
 
-Benvenuti nell'MLExperimentarium, una repository dedicata alla sperimentazione e all'apprendimento pratico nel campo della machine learning. Questo spazio è progettato per ospitare una vasta gamma di esercizi, progetti e script Python correlati alla Data Science e all'apprendimento automatico.
+Welcome to the MLExperimentarium, a repository dedicated to experimentation and hands-on learning in the field of machine learning. This space is designed to host a wide range of Python exercises, projects and scripts related to Data Science and machine learning.
 
-All'interno di questa repository, troverai:
+Within this repository, you will find:
 
-- Esercizi pratici: una serie di esercizi che coprono concetti fondamentali e avanzati di machine learning, con soluzioni e spiegazioni per aiutarti a comprendere i concetti chiave.
-- Progetti pratici: progetti completi di machine learning che affrontano problemi reali e utilizzano set di dati diversi per mostrare l'applicazione pratica delle tecniche di machine learning.
-- Script e notebook: script Python e notebook Jupyter che dimostrano l'utilizzo di librerie popolari come TensorFlow, scikit-learn, Keras e altro ancora per l'implementazione di algoritmi di machine learning.
+- Practical Exercises: a series of exercises covering fundamental and advanced machine learning concepts, with solutions and explanations to help you understand the key concepts.
+- Practical projects: complete machine learning projects that tackle real problems and use different datasets to show the practical application of machine learning techniques.
+- Scripts and notebooks: Python scripts and Jupyter notebooks demonstrating the use of popular libraries such as TensorFlow, scikit-learn, Keras and more for implementing machine learning algorithms.
 
+Translated with DeepL (https://www.deepl.com/app/?utm_source=ios&utm_medium=app&utm_campaign=share-translation)
 Questa repository è aperta a contributi da parte della comunità, quindi ti invitiamo a condividere i tuoi esercizi, progetti e script per contribuire all'apprendimento collettivo nel campo della machine learning.
 
 Inizia subito esplorando gli esercizi e i progetti disponibili, o contribuisci con i tuoi per arricchire questa risorsa di apprendimento!
