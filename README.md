@@ -5,3 +5,4 @@ Welcome to the MLExperimentarium, a personal repository dedicated to experimenta
 Within this repository, you will find:
 
 - `Machine Learning Algorithms`: folder containing the main machine learning algorithms. Theory, practice and projects.
+- `Books and resources`: folder with books, slides and other resources for Algorithms and Coding.
