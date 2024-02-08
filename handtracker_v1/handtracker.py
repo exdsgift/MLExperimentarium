@@ -35,3 +35,5 @@ while True:
    
 cap.release()
 cv2.destroyAllWindows()
+
+# to close the entire programme, print ctrl-C on the terminal. Do not close the webcam window or the code will collapse
