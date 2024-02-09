@@ -1,17 +1,16 @@
+
 # simple handtracker using Machine Learning
 
 # import libraries
-
 import cv2
 import mediapipe as mp
 
-
-mp_drawing = mp.solutions.drawing_utils
-mp_drawing_styles = mp.solutions.drawing_styles
-mphands = mp.solutions.hands
+mp_drawing = mp.solutions.drawing_utils 
+mp_drawing_styles = mp.solutions.drawing_styles 
+mphands = mp.solutions.hands 
 
 cap = cv2.VideoCapture(0)
-hands=mphands.Hands()
+hands=mphands.Hands() 
 
 while True:
    data, image = cap.read()
