@@ -3,14 +3,14 @@ from turtle import *
 speed(1000)
 hideturtle()
 bgcolor('white')
-for i in range(80):
+for i in range(1000):
     color('black')
     circle(i)
-    color('darkgrey')
+    color('black')
     circle(i*1.2)
-    color('grey')
+    color('black')
     circle(i*1.5)
-    color('lightgrey')
+    color('black')
     circle(i*1.7)
     left(5)
     backward(5)

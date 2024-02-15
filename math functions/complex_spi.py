@@ -1,5 +1,5 @@
 import turtle
-colorlist=['black','darkgrey','grey','lightgrey']
+colorlist=['black','black','black','black']
 t=turtle.Turtle()
 turtle.setup(height=700,width=700)
 t.speed(10)
